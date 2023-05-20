@@ -4,7 +4,7 @@ logo: /assets/img/logo.png
 description:
   <p align="center">
   <a href="docs/PraveenChalamcharla.docx">Resume</a> |
-  <a href="linkedin.com/in/praveen-kumar-chalamcharla-06454b1b">LinkedIn</a> |
+  <a href="https://linkedin.com/in/praveen-kumar-chalamcharla-06454b1b">LinkedIn</a> |
   <a href="https://github.com/praveen-2814">GitHub</a>
   
   <br>   
@@ -16,6 +16,7 @@ description:
   Currently pursuing Masters in Machine Learning & Data Science.
   <br>
   </p>
+
 
 
 theme: jekyll-theme-minimal
